@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josthonk
-- 👀 I’m interested in Seaborn
+- 👀 I’m interested in Seaborn and Folium
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me josthonk@gmail.com
